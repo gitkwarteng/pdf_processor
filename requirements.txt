@@ -1,0 +1,9 @@
+Django
+django-rest-framework-mongoengine
+djangorestframework
+django-widget-tweaks
+gunicorn
+mongoengine
+nltk
+pdfminer.six
+pymongo
